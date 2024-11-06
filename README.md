@@ -85,7 +85,7 @@ Examples
 - Subversion (SVN)
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-1. Dealing with Complex and Evolving Requirements: 
+1. Dealing with Complex and Evolving Requirements: Software engineers frequently work on projects where the requirements are unclear, incomplete, or evolve over time. This can lead to confusion, scope creep, and wasted development efforts.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
